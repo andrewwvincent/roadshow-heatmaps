@@ -1,0 +1,3394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="preferred">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="other">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Vestavia Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Vestavia Hills</h3>
+        <p><strong>Address:</strong> 3051 Healthy Way, Vestavia, Alabama 35243</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 205-547-3100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/al/vestavia-hills.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.734616,33.428865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biltmore</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Biltmore</h3>
+        <p><strong>Address:</strong> 2580 E. Camelback Rd, Phoenix, Arizona 85016</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 623-244-3200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/biltmore.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.02791,33.510838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gilbert</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Gilbert</h3>
+        <p><strong>Address:</strong> 381 East Warner Rd, Gilbert, Arizona 85296</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 480-892-5020</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/gilbert.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.782825,33.333908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Happy Valley-Peoria</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Happy Valley-Peoria</h3>
+        <p><strong>Address:</strong> 24700 North 67th Ave, Peoria, Arizona 85383</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 623-259-3400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/happy-valley-peoria.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.204345,33.708486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Scottsdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>North Scottsdale</h3>
+        <p><strong>Address:</strong> 6850 E Chauncey Ln, Phoenix, Arizona 85054</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 480-538-9009</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/north-scottsdale.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.933033,33.652512</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ocotillo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Ocotillo</h3>
+        <p><strong>Address:</strong> 1505 East Ocotillo Road, Gilbert, AZ 85298</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/ocotillo.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.757608,33.246784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palm Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Palm Valley</h3>
+        <p><strong>Address:</strong> 14540 W McDowell Rd, Goodyear, Arizona 85395</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 623-536-9595</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/palm-valley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-112.371518,33.465658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradise Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Paradise Valley</h3>
+        <p><strong>Address:</strong> 12800 North Tatum Blvd, Phoenix, AZ 85032</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/paradise-valley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.97842,33.602761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scottsdale Fashion Square</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Scottsdale Fashion Square</h3>
+        <p><strong>Address:</strong> 4724 N Goldwater Blvd, Scottsdale, Arizona 85251</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 480-791-0635</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/scottsdale-fashion-square.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.931935,33.504575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tempe</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Tempe</h3>
+        <p><strong>Address:</strong> 1616 W Ruby Dr, Tempe, Arizona 85284</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 480-705-8855</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/az/tempe.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.964512,33.341208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arden</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Arden</h3>
+        <p><strong>Address:</strong> 1220 Arden Hills Lane, Sacramento, CA 95864</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/arden.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.355498,38.588048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brea</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Brea</h3>
+        <p><strong>Address:</strong> 1600 Brea Mall Road, Brea, CA 92821</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/brea.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.8898,33.91562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Folsom</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Folsom</h3>
+        <p><strong>Address:</strong> 110 Healthy Way, Folsom, California 95630</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 916-597-9100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/folsom.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.104656,38.644739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Jolla</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>La Jolla</h3>
+        <p><strong>Address:</strong> 1055 Wall Street, La Jolla, California 92037</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 858-410-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/la-jolla.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.273481,32.846479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Niguel</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Laguna Niguel</h3>
+        <p><strong>Address:</strong> 25600 Rancho Niguel Rd, Laguna Niguel, California 92677</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 949-238-2700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/laguna-niguel.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.683531,33.556749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakeshore-Irvine</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lakeshore-Irvine</h3>
+        <p><strong>Address:</strong> 18007 Von Karman Ave., Irvine, California 92612</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 949-739-6300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/lakeshore-irvine.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.85203,33.679501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Otay Ranch</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Otay Ranch</h3>
+        <p><strong>Address:</strong> 1650 Main Street West, Chula Vista, CA 91913</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/otay-ranch.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.030929,32.594861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rancho San Clemente</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Rancho San Clemente</h3>
+        <p><strong>Address:</strong> 111 Avenida Vista Montana, San Clemente, California 92672</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 949-392-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/rancho-san-clemente.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.60704,33.44182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roseville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Roseville</h3>
+        <p><strong>Address:</strong> 1435 E Roseville Pkwy, Roseville, California 95661</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 916-472-2000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/roseville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.24483,38.761748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walnut Creek</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Walnut Creek</h3>
+        <p><strong>Address:</strong> 1315 Broadway Plaza, Walnut Creek, California 94596</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 925-951-4900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ca/walnut-creek.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.05893,37.89537</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Boulder</h3>
+        <p><strong>Address:</strong> 1821 30th Street, Boulder, CO 80301</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/boulder.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-105.254865,40.018668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centennial</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Centennial</h3>
+        <p><strong>Address:</strong> 5000 E Dry Creek Rd, Centennial, Colorado 80122</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 720-489-1400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/centennial.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.928722,39.577795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centennial Tennis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Centennial Tennis</h3>
+        <p><strong>Address:</strong> 5100 E Dry Creek Rd, Centennial, Colorado 80122</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 720-489-1400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/centennial-tennis.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.928443,39.579206</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cherry Creek</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Cherry Creek</h3>
+        <p><strong>Address:</strong> 500 S. Cherry St, Denver, Colorado 80246</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 855-430-5433</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/cherry-creek.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.932443,39.706797</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Colorado Springs</h3>
+        <p><strong>Address:</strong> 4410 Royal Pine Dr, Colorado Springs, Colorado 80920</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 719-266-9900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/colorado-springs.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.746528,38.968984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denver West</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Denver West</h3>
+        <p><strong>Address:</strong> 3501 Clear Creek Drive, Wheat Ridge, Colorado 80401</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 303-357-7900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/denver-west.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-105.146916,39.766326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flatirons</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Flatirons</h3>
+        <p><strong>Address:</strong> 300 Summit Blvd, Broomfield, Colorado 80021</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 720-531-8000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/flatirons.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-105.141921,39.925893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parker-Aurora</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Parker-Aurora</h3>
+        <p><strong>Address:</strong> 9250 Crown Crest Blvd, Parker, Colorado 80138</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 720-842-0800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/parker-aurora.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.769942,39.552268</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westminster</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Westminster</h3>
+        <p><strong>Address:</strong> 397 W 148th Ave, Westminster, Colorado 80023</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 303-429-8000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/co/westminster.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.99075,39.965607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Living Stamford</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Living Stamford</h3>
+        <p><strong>Address:</strong> 130 Tresser Boulevard, Stamford, CT 06901</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://living.lifetime.life/locations/ct-stamford.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.540906,41.051136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stamford Downtown</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Stamford Downtown</h3>
+        <p><strong>Address:</strong> 130 Tresser Blvd, Stamford, Connecticut 06901</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 203-705-2500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ct/stamford.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.540906,41.051136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boca Raton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Boca Raton</h3>
+        <p><strong>Address:</strong> 1499 Yamato Road, Boca Raton, Florida 33431</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 561-208-5900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/boca-raton.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.116085,26.394707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coral Gables</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Coral Gables</h3>
+        <p><strong>Address:</strong> 237 S Dixie Hwy, Coral Gables, Florida 33133</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 786-437-4400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/coral-gables.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.260073,25.728072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbour Island</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Harbour Island</h3>
+        <p><strong>Address:</strong> 900 S Harbour Island Blvd, Tampa, Florida 33602</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 813-437-8200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/harbour-island.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.452113,27.936435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Living Coral Gables</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Living Coral Gables</h3>
+        <p><strong>Address:</strong> 227 South Dixie Hwy, Coral Gables, FL 33133</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://living.lifetime.life/locations/fl-coral-gables.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.25879,25.72904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Coral Gables</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Coral Gables</h3>
+        <p><strong>Address:</strong> 237 South Dixie Highway, Coral Gables, FL 33133</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/fl-coral-gables.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.260073,25.728072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miami at The Falls</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Miami at The Falls</h3>
+        <p><strong>Address:</strong> 8778 SW 136th Street, Miami, Florida 33176</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 786-977-6100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/miami.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.33631,25.642784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palm Beach Gardens</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Palm Beach Gardens</h3>
+        <p><strong>Address:</strong> 11825 Lake Victoria Gardens Ave, Palm Beach Gardens, Florida 33410</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 561-352-2700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/palm-beach-gardens.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.0948,26.85013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Boca</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>West Boca</h3>
+        <p><strong>Address:</strong> 9698 Glades Road, Boca Raton, FL 33434</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/west-boca.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.19855,26.36677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Winter Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Winter Park</h3>
+        <p><strong>Address:</strong> 1225 Bennett Avenue, Winter Park, FL 32789</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/fl/winter-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.369739,28.610749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alpharetta</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Alpharetta</h3>
+        <p><strong>Address:</strong> 855 North Point Pkwy, Alpharetta, Georgia 30005</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 770-664-9696</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/alpharetta.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.262216,34.079894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buckhead at Phipps Plaza</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Buckhead at Phipps Plaza</h3>
+        <p><strong>Address:</strong> 3470 Peachtree Rd, Atlanta, Georgia 30326</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 404-965-7500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/buckhead.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.36359,33.85365</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johns Creek</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Johns Creek</h3>
+        <p><strong>Address:</strong> 11555 Johns Creek Pkwy, Johns Creek, Georgia 30097</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 770-495-7800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/johns-creek.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.167019,34.061119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Buckhead at Phipps Plaza</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Buckhead at Phipps Plaza</h3>
+        <p><strong>Address:</strong> 3480 Peachtree Rd NE, Atlanta, GA 30326</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/ga-buckhead.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.361246,33.851623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Sandy Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Sandy Springs</h3>
+        <p><strong>Address:</strong> 5600 Roswell Road Building C, Sandy Springs, GA 30342</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/ga-sandy-springs.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.379917,33.908055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Druid Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>North Druid Hills</h3>
+        <p><strong>Address:</strong> 1515 Sheridan Rd NE, Atlanta, Georgia 30324</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 404-682-6150</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/north-druid-hills.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.337688,33.824062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peachtree Corners</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Peachtree Corners</h3>
+        <p><strong>Address:</strong> 6350 Courtside Dr NW, Peachtree Corners, Georgia 30092</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 770-449-6060</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/peachtree-corners.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.245577,33.964433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perimeter</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Perimeter</h3>
+        <p><strong>Address:</strong> 8 Concourse Pkwy, Atlanta, GA 30328</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/perimeter.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.35566,33.91622</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandy Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Sandy Springs</h3>
+        <p><strong>Address:</strong> 5600 Roswell Road Building I, Sandy Springs, Georgia 30342</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 404-257-0900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/sandy-springs.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.379917,33.908055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugarloaf</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Sugarloaf</h3>
+        <p><strong>Address:</strong> 1823 N Brown Rd, Lawrenceville, Georgia 30043</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 678-226-2099</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/sugarloaf.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.08299,33.985826</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodstock</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Woodstock</h3>
+        <p><strong>Address:</strong> 14200 Hwy 92, Woodstock, Georgia 30188</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 770-926-7544</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ga/woodstock.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.454672,34.080527</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eagle</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Eagle</h3>
+        <p><strong>Address:</strong> 1650 Riverside Drive, Eagle, ID 83616</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/id/eagle.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-116.355728,43.677198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Algonquin</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Algonquin</h3>
+        <p><strong>Address:</strong> 451 Rolls Rd, Algonquin, Illinois 60102</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-458-6200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/algonquin.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.33132,42.17098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bloomingdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bloomingdale</h3>
+        <p><strong>Address:</strong> 455 Scott Dr, Bloomingdale, Illinois 60108</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 630-582-4100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/bloomingdale.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.122697,41.944657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burr Ridge</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Burr Ridge</h3>
+        <p><strong>Address:</strong> 601 Burr Ridge Pkwy, Burr Ridge, Illinois 60527</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 630-230-0011</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/burr-ridge.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.914225,41.753473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evanston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Evanston</h3>
+        <p><strong>Address:</strong> 1618 Sherman Ave, Evanston, IL 60201</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 855-430-5433</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/evanston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.682156,42.047829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Zurich</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lake Zurich</h3>
+        <p><strong>Address:</strong> 400 North Rand Road, Lake Zurich, Illinois 60047</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-719-9200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/lake-zurich.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.111042,42.203574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work River North</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work River North</h3>
+        <p><strong>Address:</strong> 750 N. State Street, Floors 6 & 7, Chicago, IL 60654</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/il-river-north-at-one-chicago.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.628497,41.896495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northbrook</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Northbrook</h3>
+        <p><strong>Address:</strong> 1100 Skokie Blvd, Northbrook, Illinois 60062</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-780-5100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/northbrook.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.787914,42.12951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakbrook</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Oakbrook</h3>
+        <p><strong>Address:</strong> 2000 Oakbrook Center, Oak Brook, Illinois 60523</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 630-203-5400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/oakbrook.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.953761,41.852092</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Orchard</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Old Orchard</h3>
+        <p><strong>Address:</strong> 5330 Old Orchard Rd, Skokie, Illinois 60077</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-470-8600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/old-orchard.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.761012,42.062657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orland Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Orland Park</h3>
+        <p><strong>Address:</strong> 16333 S La Grange Rd, Orland Park, Illinois 60467</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 708-364-0300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/orland-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.850345,41.593378</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>River North at One Chicago</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>River North at One Chicago</h3>
+        <p><strong>Address:</strong> 15 W Chicago Ave, Chicago, Illinois 60654</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 872-345-8500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/river-north-one-chicago.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.628923,41.896479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romeoville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Romeoville</h3>
+        <p><strong>Address:</strong> 1220 Lakeview Dr, Romeoville, Illinois 60446</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 630-759-9995</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/romeoville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.120891,41.660235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schaumburg</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Schaumburg</h3>
+        <p><strong>Address:</strong> 900 E Higgins Rd, Schaumburg, Illinois 60173</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-517-7171</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/schaumburg.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.056538,42.041777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vernon Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Vernon Hills</h3>
+        <p><strong>Address:</strong> 680 Woodlands Pkwy, Vernon Hills, Illinois 60061</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 847-995-0670</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/vernon-hills.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.936958,42.213662</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warrenville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Warrenville</h3>
+        <p><strong>Address:</strong> 28141 Diehl Rd, Warrenville, Illinois 60555</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 630-393-2600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/il/warrenville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.167443,41.800295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castle Creek</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Castle Creek</h3>
+        <p><strong>Address:</strong> 8705 Castle Creek Parkway East Dr, Indianapolis, Indiana 46250</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 317-595-9700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/in/castle-creek.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.066941,39.9142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fishers</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Fishers</h3>
+        <p><strong>Address:</strong> 11691 Fishers Corner Blvd, Fishers, Indiana 46038</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 317-579-9555</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/in/fishers.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.00669,39.96027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Des Moines</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Des Moines</h3>
+        <p><strong>Address:</strong> 11911 Hickman Rd, Urbandale, Iowa 50323</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 515-362-3500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ia/des-moines.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.781776,41.616981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lenexa</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lenexa</h3>
+        <p><strong>Address:</strong> 16851 W 90th St, Lenexa, Kansas 66219</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 913-888-2211</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ks/lenexa.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-94.78133,38.964434</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Overland Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Overland Park</h3>
+        <p><strong>Address:</strong> 6800 W 138th St, Overland Park, Kansas 66223</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 913-239-9000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ks/overland-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-94.664422,38.878902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Annapolis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Annapolis</h3>
+        <p><strong>Address:</strong> 200 Harker Place, Annapolis, Maryland 21401</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 410-919-4100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/md/annapolis.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-76.54017,38.981829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Columbia</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Columbia</h3>
+        <p><strong>Address:</strong> 7220 Lee Deforest Dr, Columbia, Maryland 21046</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 410-953-0022</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/md/columbia.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-76.820817,39.174702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaithersburg</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Gaithersburg</h3>
+        <p><strong>Address:</strong> 10121 Washingtonian Blvd, Gaithersburg, Maryland 20878</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 301-569-5100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/md/gaithersburg.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.204322,39.120178</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Potomac</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Potomac</h3>
+        <p><strong>Address:</strong> 1151 Seven Locks Rd, Rockville, Maryland 20854</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 240-314-7022</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/md/potomac.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.158909,39.062667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Burlington</h3>
+        <p><strong>Address:</strong> 186 Middlesex Tpke, Burlington, Massachusetts 01803</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 855-430-5433</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/burlington.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.22666,42.49286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chestnut Hill</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chestnut Hill</h3>
+        <p><strong>Address:</strong> 300 Boylston St., Newton, Massachusetts 02467</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 781-797-2000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/chestnut-hill.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.179988,42.31877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Living Burlington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Living Burlington</h3>
+        <p><strong>Address:</strong> 20 Fourth Avenue, Burlington, MA 01803</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 844-336-0878</p>
+        <p><strong>Website:</strong> <a href="https://living-burlington.lifetime.life/" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.225489,42.491746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Chestnut Hill</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Chestnut Hill</h3>
+        <p><strong>Address:</strong> 300 Boylston St., Newton, MA 02467</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/ma-chestnut-hill.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.179988,42.31877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Medford at Station Landing</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Medford at Station Landing</h3>
+        <p><strong>Address:</strong> 70 Station Landing, Medford, Massachusetts 02155</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 781-658-9900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/medford.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.080446,42.403005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MetroWest-Boston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>MetroWest-Boston</h3>
+        <p><strong>Address:</strong> 490 Old Connecticut Path, Framingham, Massachusetts 01701</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 774-777-2100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/metrowest-boston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.394924,42.313108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northshore</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Northshore</h3>
+        <p><strong>Address:</strong> 210 Andover Street, Suite #LL11, Peabody, Massachusetts 01960</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 978-817-3700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/northshore.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-70.943462,42.540353</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prudential Center</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Prudential Center</h3>
+        <p><strong>Address:</strong> 800 Boylston Street Space 179, Boston, MA 02199</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/prudential-center.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.081336,42.346933</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westwood</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Westwood</h3>
+        <p><strong>Address:</strong> 44 Harvard St, Westwood, Massachusetts 02090</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 781-381-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ma/westwood.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.157051,42.200787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bloomfield Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bloomfield Township</h3>
+        <p><strong>Address:</strong> 4106 Telegraph Rd, Bloomfield Hills, Michigan 48302</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 248-282-4300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/bloomfield-township.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.281831,42.579906</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canton Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Canton Township</h3>
+        <p><strong>Address:</strong> 1700 N Haggerty Rd, Canton, Michigan 48187</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 734-394-2800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/canton-township.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.445969,42.318965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Commerce Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Commerce Township</h3>
+        <p><strong>Address:</strong> 2901 Commerce Crossing, Commerce Township, Michigan 48390</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 248-960-0955</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/commerce-township.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.44672,42.536485</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Novi</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Novi</h3>
+        <p><strong>Address:</strong> 40000 High Pointe Blvd, Novi, Michigan 48375</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 248-735-0100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/novi.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.437726,42.448757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rochester Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Rochester Hills</h3>
+        <p><strong>Address:</strong> 200 W Avon Rd, Rochester Hills, Michigan 48307</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 248-601-9400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/rochester-hills.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.136835,42.668328</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shelby Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Shelby Township</h3>
+        <p><strong>Address:</strong> 14843 Lakeside Blvd N, Shelby Township, Michigan 48315</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 586-532-1300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/shelby-township.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.977782,42.633718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Troy</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Troy</h3>
+        <p><strong>Address:</strong> 4700 Investment Dr, Troy, Michigan 48098</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 248-267-1000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mi/troy.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.173088,42.589452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apple Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Apple Valley</h3>
+        <p><strong>Address:</strong> 5995 149th St W, Apple Valley, Minnesota 55124</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-431-9000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/apple-valley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.186085,44.733943</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bloomington North</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bloomington North</h3>
+        <p><strong>Address:</strong> 5250 W 84th St, Bloomington, Minnesota 55437</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-835-2222</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/bloomington-north.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.346819,44.853404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bloomington South</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bloomington South</h3>
+        <p><strong>Address:</strong> 1001 W 98th St, Bloomington, Minnesota 55431</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-830-7900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/bloomington-south.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.292656,44.824518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Champlin</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Champlin</h3>
+        <p><strong>Address:</strong> 11989 Champlin Dr, Champlin, Minnesota 55316</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-576-3000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/champlin.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.394722,45.172951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chanhassen</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chanhassen</h3>
+        <p><strong>Address:</strong> 2901 Corporate Pl, Chanhassen, Minnesota 55317</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-380-0303</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/chanhassen.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.594793,44.861316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chanhassen Pickleball Complex</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chanhassen Pickleball Complex</h3>
+        <p><strong>Address:</strong> 2970 Water Tower Place, Chanhassen, Minnesota 55317</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-380-4346</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/chanhassen-pickleball.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.596293,44.860027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coon Rapids</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Coon Rapids</h3>
+        <p><strong>Address:</strong> 2100 Northdale Blvd NW, Coon Rapids, Minnesota 55433</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-767-9000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/coon-rapids.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.320567,45.180696</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crosstown (Eden Prairie)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Crosstown (Eden Prairie)</h3>
+        <p><strong>Address:</strong> 6233 Baker Rd, Eden Prairie, Minnesota 55346</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-943-4600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/crosstown-eden-prairie.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.445695,44.889928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Digital Club</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Digital Club</h3>
+        <p><strong>Address:</strong> n/a</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> n/a</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/digital-app.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.8892,33.839967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eagan</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Eagan</h3>
+        <p><strong>Address:</strong> 1565 Thomas Center Dr, Eagan, Minnesota 55122</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 651-688-3000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/eagan.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.179762,44.792506</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eden Prairie Athletic</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Eden Prairie Athletic</h3>
+        <p><strong>Address:</strong> 755 Prairie Center Dr, Eden Prairie, Minnesota 55344</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-829-8400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/eden-prairie-athletic.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.437334,44.856306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edina at Southdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Edina at Southdale</h3>
+        <p><strong>Address:</strong> 250 Southdale Center, Edina, Minnesota 55435</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-257-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/southdale.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.323787,44.881594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fridley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Fridley</h3>
+        <p><strong>Address:</strong> 1200 Moore Lake Dr E, Fridley, Minnesota 55432</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-656-1500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/fridley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.24091,45.07961</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highland Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Highland Park</h3>
+        <p><strong>Address:</strong> 2145 Ford Pkwy, Saint Paul, Minnesota 55116</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 651-698-5000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/st-paul-highland-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.190772,44.918117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakeville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lakeville</h3>
+        <p><strong>Address:</strong> 18425 Dodd Blvd, Lakeville, Minnesota 55044</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-985-8800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/lakeville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.251372,44.683214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Swim Maple Grove</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Swim Maple Grove</h3>
+        <p><strong>Address:</strong> 8001 Forestview Lane North, Maple Grove, MN 55369</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://swim.lifetime.life/index.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.428099,45.100694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Downtown Minneapolis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Downtown Minneapolis</h3>
+        <p><strong>Address:</strong> 30 South 9th Street, 7th Floor, Minneapolis, MN 55402</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 612-230-0355</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/mn-minneapolis.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.27593,44.976078</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Edina at Southdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Edina at Southdale</h3>
+        <p><strong>Address:</strong> 200 Southdale Center, Edina, MN 55435</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-257-7190</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/mn-edina-southdale.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.324189,44.881846</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work West End - St. Louis Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work West End - St. Louis Park</h3>
+        <p><strong>Address:</strong> 1600 West End Tower, Utica Ave South, St. Louis Park, MN 55416</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-358-6360</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/mn-st-louis-park-west-end.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.3482,44.967881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maple Grove</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Maple Grove</h3>
+        <p><strong>Address:</strong> 12601 82nd Ave N, Maple Grove, Minnesota 55369</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-420-8282</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/maple-grove.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.4411,45.103424</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minnetonka</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Minnetonka</h3>
+        <p><strong>Address:</strong> 3310 County Road 101 S, Minnetonka, Minnesota 55391</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-476-1717</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/minnetonka.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.503406,44.942747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Hope</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>New Hope</h3>
+        <p><strong>Address:</strong> 4239 Winnetka Ave N, New Hope, Minnesota 55428</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-971-0404</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/new-hope.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.380326,45.033596</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakdale Village Tennis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Oakdale Village Tennis</h3>
+        <p><strong>Address:</strong> 1201 Ford Rd, Minnetonka, Minnesota 55305</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-593-3900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/oakdale-village-tennis.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.40494,44.971766</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plymouth</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Plymouth</h3>
+        <p><strong>Address:</strong> 3600 Plymouth Blvd, Plymouth, Minnesota 55446</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 763-509-0909</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/plymouth.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.475946,45.022388</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosemount</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Rosemount</h3>
+        <p><strong>Address:</strong> 14290 Akron Avenue, Rosemount, Minnesota 55068</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 651-855-6500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/rosemount.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.08522,44.74183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Savage</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Savage</h3>
+        <p><strong>Address:</strong> 6544 Loftus Ln W, Savage, Minnesota 55378</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-226-1222</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/savage.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.362091,44.749701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Louis Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>St. Louis Park</h3>
+        <p><strong>Address:</strong> 5525 Cedar Lake Rd S, St Louis Park, Minnesota 55416</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 952-546-5474</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/st-louis-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.350003,44.961863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Target Center (Minneapolis)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Target Center (Minneapolis)</h3>
+        <p><strong>Address:</strong> 600 1st Ave N, Minneapolis, Minnesota 55403</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 612-486-3600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/minneapolis-target-center.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.276108,44.97955</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>White Bear Lake</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>White Bear Lake</h3>
+        <p><strong>Address:</strong> 4800 White Bear Pkwy, White Bear Lake, Minnesota 55110</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 651-426-1308</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/white-bear-lake.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.047416,45.083782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodbury</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Woodbury</h3>
+        <p><strong>Address:</strong> 675 Commons Dr, Woodbury, Minnesota 55125</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 651-730-6000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mn/woodbury.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-92.931162,44.938896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creve Coeur</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Creve Coeur</h3>
+        <p><strong>Address:</strong> 12691 Conway Road, Creve Coeur, MO 63141</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mo/creve-coeur.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.466983,38.65051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frontenac</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Frontenac</h3>
+        <p><strong>Address:</strong> 2051 South Lindbergh Blvd, Frontenac, Missouri 63131</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 314-888-0806</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mo/frontenac.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.408645,38.626311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West County-Chesterfield</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>West County-Chesterfield</h3>
+        <p><strong>Address:</strong> 3058 Clarkson Rd, Ellisville, Missouri 63017</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 636-227-0200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/mo/west-county-chesterfield.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.583084,38.607135</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Omaha</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Omaha</h3>
+        <p><strong>Address:</strong> 17007 Elm Plaza, Omaha, Nebraska 68130</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 402-334-3000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ne/omaha.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.178941,41.231862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Durango</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Durango</h3>
+        <p><strong>Address:</strong> 8555 West Sunset Road, Las Vegas, NV 89113</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nv/durango.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.278059,36.068733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Green Valley</h3>
+        <p><strong>Address:</strong> 121 Carnegie St, Henderson, Nevada 89052</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 702-802-7300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nv/henderson-green-valley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.093724,36.021756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Living Green Valley (Henderson)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Living Green Valley (Henderson)</h3>
+        <p><strong>Address:</strong> 2460 E Serene Ave, Henderson, NV 89074</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://living.lifetime.life/locations/nv-green-valley.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.11727,36.020545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summerlin</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Summerlin</h3>
+        <p><strong>Address:</strong> 10721 W Charleston Blvd, Las Vegas, Nevada 89135</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 702-228-2611</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nv/summerlin.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.327715,36.158192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bergen County</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bergen County</h3>
+        <p><strong>Address:</strong> 10 Van Riper Rd, Montvale, New Jersey 07645</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 201-746-4700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/bergen-county.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.066488,41.044317</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berkeley Heights</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Berkeley Heights</h3>
+        <p><strong>Address:</strong> 25 Connell Dr, Berkeley Heights, New Jersey 07922</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 908-665-5911</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/berkeley-heights.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.4089,40.669029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridgewater</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bridgewater</h3>
+        <p><strong>Address:</strong> 145 Commons Way, Bridgewater, New Jersey 08807</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 908-800-5100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/bridgewater.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.626372,40.5888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Florham Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Florham Park</h3>
+        <p><strong>Address:</strong> 14 Fernwood Rd, Florham Park, New Jersey 07932</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 908-598-1212</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/florham-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.372747,40.789038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Studio at The Shops at Riverside</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Studio at The Shops at Riverside</h3>
+        <p><strong>Address:</strong> 390 Hackensack Avenue, Lower Level, Suite #010, Hackensack, New Jersey 07601</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 551-287-3400</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/riverside.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.030364,40.905645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Bridgewater</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Bridgewater</h3>
+        <p><strong>Address:</strong> 100 Somerset Corporate Boulevard 2nd Floor, Bridgewater, NJ 08807</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 908-800-5198</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/nj-bridgewater.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.625193,40.586648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Middletown - Red Bank</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Middletown - Red Bank</h3>
+        <p><strong>Address:</strong> 331 Newman Springs Road, Floor 2, One River Center Building 3, Red Bank, NJ 07701</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 732-889-8305</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/nj-middletown-red-bank.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.094852,40.335012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Middletown - Red Bank</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Middletown - Red Bank</h3>
+        <p><strong>Address:</strong> 230 Half Mile Rd., Middletown, New Jersey 07701</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 732-889-8300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/middletown.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.097033,40.33906</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Laurel</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Mount Laurel</h3>
+        <p><strong>Address:</strong> 3939 Church Rd, Mount Laurel, New Jersey 08054</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 856-813-3100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/mount-laurel.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.965047,39.92785</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Princeton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Princeton</h3>
+        <p><strong>Address:</strong> 7 Forrestal Rd S, Princeton, New Jersey 08540</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 609-608-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nj/princeton.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.618838,40.342524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>23rd Street</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>23rd Street</h3>
+        <p><strong>Address:</strong> 60 W 23rd Street, New York, New York 10010</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 212-381-8900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/23rd-street.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.992618,40.742568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atlantic Avenue</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Atlantic Avenue</h3>
+        <p><strong>Address:</strong> 18 Sixth Avenue, Brooklyn, New York 11217</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 929-489-3200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/atlantic-avenue.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.97396,40.68269</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Battery Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Battery Park</h3>
+        <p><strong>Address:</strong> 1 West Street, New York, New York 10004</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 212-419-7300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/battery-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.016152,40.705599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Tower</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Brooklyn Tower</h3>
+        <p><strong>Address:</strong> 9 Dekalb Ave, Brooklyn, NY 11201</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/ny-brooklyn-tower" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.982621,40.690184</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chappaqua</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chappaqua</h3>
+        <p><strong>Address:</strong> 1 The Crossing, Chappaqua, New York 10514</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 914-296-6000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/chappaqua.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.754435,41.179047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dumbo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Dumbo</h3>
+        <p><strong>Address:</strong> 168 Front Street, Brooklyn, New York 11201</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 718-233-8100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/dumbo.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.985938,40.702312</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garden City</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Garden City</h3>
+        <p><strong>Address:</strong> 750 Zeckendorf Blvd, Garden City, New York 11530</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 516-580-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/garden-city.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.604857,40.738946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Brooklyn Tower</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Brooklyn Tower</h3>
+        <p><strong>Address:</strong> 9 Dekalb Ave, Brooklyn, NY 11201</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/ny-brooklyn-tower" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.982621,40.690184</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midtown</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Midtown</h3>
+        <p><strong>Address:</strong> 110 W 56th Street, New York, New York 10019</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 212-547-4800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/midtown.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.978433,40.76384</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NoHo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>NoHo</h3>
+        <p><strong>Address:</strong> 62 Cooper Sq, New York, New York 10003</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 917-438-0300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/noho.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.991147,40.729152</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>One Wall Street</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>One Wall Street</h3>
+        <p><strong>Address:</strong> 29 New Street, New York, New York 10005</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 212-671-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/one-wall-street.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.012022,40.706705</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PENN 1</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>PENN 1</h3>
+        <p><strong>Address:</strong> 235 West 33rd St, New York, New York 10119</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 332-263-0900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/penn-1.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.991882,40.751082</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sky (Manhattan)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Sky (Manhattan)</h3>
+        <p><strong>Address:</strong> 605 West 42nd Street, New York, New York 10036</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 212-564-1300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/sky-manhattan.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.998778,40.761459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Syosset</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Syosset</h3>
+        <p><strong>Address:</strong> 350 Robbins Ln, Syosset, New York 11791</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 516-822-1777</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/syosset.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.51717,40.795884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westchester</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Westchester</h3>
+        <p><strong>Address:</strong> 1 Westchester Park Dr, West Harrison, New York 10604</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 914-290-5100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ny/westchester.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.721932,41.022889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alston Town Center</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Alston Town Center</h3>
+        <p><strong>Address:</strong> 1120 Healthy Way, Cary, NC 27519</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nc/alston-town-center.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.88664,35.836607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apex</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Apex</h3>
+        <p><strong>Address:</strong> 1040 Vision Dr, Apex, North Carolina 27523</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 919-387-3095</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nc/apex.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.878332,35.749574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cary</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Cary</h3>
+        <p><strong>Address:</strong> 1700 Regency Pkwy, Cary, North Carolina 27518</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 919-467-7779</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nc/cary.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.787333,35.733662</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlotte</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Charlotte</h3>
+        <p><strong>Address:</strong> 11220 Golf Links Dr, Charlotte, North Carolina 28277</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 704-901-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nc/charlotte.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.774103,35.054649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raleigh</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Raleigh</h3>
+        <p><strong>Address:</strong> 8515 Falls of Neuse Rd, Raleigh, North Carolina 27615</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 919-582-7000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/nc/raleigh.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.617007,35.896592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beachwood</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Beachwood</h3>
+        <p><strong>Address:</strong> 3850 Richmond Rd, Beachwood, Ohio 44122</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 216-292-6844</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/beachwood.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.499683,41.456125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deerfield Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Deerfield Township</h3>
+        <p><strong>Address:</strong> 8310 Wilkens Blvd, Mason, Ohio 45040</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 513-234-0660</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/deerfield-township.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.31745,39.318065</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dublin</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Dublin</h3>
+        <p><strong>Address:</strong> 3825 Hard Rd, Dublin, Ohio 43016</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 614-764-1144</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/dublin.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.092842,40.117055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Easton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Easton</h3>
+        <p><strong>Address:</strong> 3900 Easton Station, Columbus, Ohio 43219</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 614-428-6000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/easton.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.916977,40.050093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pickerington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Pickerington</h3>
+        <p><strong>Address:</strong> 1520 Stonecreek Dr S, Pickerington, Ohio 43147</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 614-759-8593</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/pickerington.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.78291,39.915691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper Arlington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Upper Arlington</h3>
+        <p><strong>Address:</strong> 1860 Henderson Rd, Columbus, Ohio 43220</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 614-326-1500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/oh/upper-arlington.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.069758,40.055996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oklahoma City</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Oklahoma City</h3>
+        <p><strong>Address:</strong> 2563 West Memorial Road, Oklahoma City, Oklahoma 73134</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 405-832-5200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ok/oklahoma-city.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.560343,35.614377</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Tulsa</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>South Tulsa</h3>
+        <p><strong>Address:</strong> 10642 S Memorial Dr, Tulsa, Oklahoma 74133</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 918-364-8500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ok/south-tulsa.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.889824,36.009131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaverton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Beaverton</h3>
+        <p><strong>Address:</strong> 600 SW 116th Ave, Beaverton, Oregon 97225</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 503-616-9950</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/or/beaverton.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.795954,45.497371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Beaverton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Beaverton</h3>
+        <p><strong>Address:</strong> 500 SW 116th Ave, Beaverton, OR 97225</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 503-616-9952</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/or-beaverton.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.793868,45.516044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ardmore</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Ardmore</h3>
+        <p><strong>Address:</strong> 40 E Montgomery Ave, Ardmore, Pennsylvania 19003</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 855-430-5433</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/pa/ardmore.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.288139,40.00918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Washington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Fort Washington</h3>
+        <p><strong>Address:</strong> 375 Commerce Dr, Fort Washington, Pennsylvania 19034</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 267-462-7700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/pa/fort-washington.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.196366,40.135874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King of Prussia</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>King of Prussia</h3>
+        <p><strong>Address:</strong> 700 E Swedesford Rd, Wayne, Pennsylvania 19087</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 484-254-7000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/pa/king-of-prussia.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.410622,40.079346</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Ardmore</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Ardmore</h3>
+        <p><strong>Address:</strong> 40 E Montgomery Ave, Ardmore, PA 19003</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 484-393-7108</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/pa-ardmore.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.288139,40.00918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collierville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Collierville</h3>
+        <p><strong>Address:</strong> 3470 S Houston Levee Rd, Collierville, Tennessee 38139</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 901-853-9393</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tn/collierville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-89.730622,35.054439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Franklin</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Franklin</h3>
+        <p><strong>Address:</strong> 5020 Carothers Pkwy, Franklin, Tennessee 37067</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 615-685-7000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tn/franklin.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.814817,35.923992</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Allen</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Allen</h3>
+        <p><strong>Address:</strong> 971 TX-121, Allen, Texas 75013</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 214-383-3500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/allen.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.679261,33.14121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin - Arboretum</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Austin - Arboretum</h3>
+        <p><strong>Address:</strong> 4210 W Braker Ln, Austin, Texas 78759</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 737-218-7300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/austin-arboretum.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.739948,30.400093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin - Downtown</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Austin - Downtown</h3>
+        <p><strong>Address:</strong> 907 W 5th St, Austin, Texas 78703</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 737-218-7200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/austin-downtown.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.75392,30.26979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin - North</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Austin - North</h3>
+        <p><strong>Address:</strong> 13725 Ranch Rd 620 N, Austin, Texas 78717</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 512-219-0909</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/austin-north.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.773983,30.472759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin - South</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Austin - South</h3>
+        <p><strong>Address:</strong> 7101 S Mopac Expy, Austin, Texas 78749</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 512-358-8171</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/austin-south.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.839365,30.215278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baybrook</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Baybrook</h3>
+        <p><strong>Address:</strong> 19250 Gulfbrook Dr, Friendswood, Texas 77546</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 346-600-7800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/baybrook.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.15371,29.54388</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Champions</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Champions</h3>
+        <p><strong>Address:</strong> 7717 Willow Chase Blvd, Houston, Texas 77070</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-469-9300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/champions.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.545602,29.966013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cinco Ranch</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Cinco Ranch</h3>
+        <p><strong>Address:</strong> 23211 Cinco Ranch Blvd, Katy, Texas 77494</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-644-5300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/cinco-ranch.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.770634,29.742299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Centre Houston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>City Centre Houston</h3>
+        <p><strong>Address:</strong> 815 Town & Country Blvd, Houston, Texas 77024</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 713-464-1200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/city-centre-houston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.559989,29.780988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colleyville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Colleyville</h3>
+        <p><strong>Address:</strong> 1221 Church St, Colleyville, Texas 76034</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 817-581-4000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/colleyville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.149281,32.886809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cypress</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Cypress</h3>
+        <p><strong>Address:</strong> 9922 Fry Rd, Cypress, Texas 77433</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 832-745-4100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/cypress.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.726605,29.930544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dallas - Addison</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Dallas - Addison</h3>
+        <p><strong>Address:</strong> 3419 Trinity Mills Rd, Dallas, Texas 75287</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 972-307-2200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/dallas-addison.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.851665,32.98839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dallas - Highland Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Dallas - Highland Park</h3>
+        <p><strong>Address:</strong> 5910 N Central Expy, Dallas, Texas 75206</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 214-624-5800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/dallas-highland-park.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.775425,32.83874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flower Mound</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Flower Mound</h3>
+        <p><strong>Address:</strong> 3100 Churchill Dr, Flower Mound, Texas 75022</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 972-355-5000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/flower-mound.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.073815,33.034889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Worth-Alliance</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Fort Worth-Alliance</h3>
+        <p><strong>Address:</strong> 10761 Founders Way, Fort Worth, Texas 76177</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 469-540-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/fort-worth-alliance.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.31414,32.93003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frisco</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Frisco</h3>
+        <p><strong>Address:</strong> 4900 Throne Hall Way, Frisco, Texas 75034</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 469-476-3900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/frisco.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.843743,33.159655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galleria Tennis (Houston)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Galleria Tennis (Houston)</h3>
+        <p><strong>Address:</strong> 5015 Westheimer Rd Ste 4020, Houston, Texas 77056</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-707-7800</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/galleria-tennis-houston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.462937,29.739188</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garland</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Garland</h3>
+        <p><strong>Address:</strong> 5602 Naaman Forest Blvd, Garland, Texas 75044</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 972-496-5000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/garland.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.648099,32.964436</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GreenStreet</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>GreenStreet</h3>
+        <p><strong>Address:</strong> 1201 Main Street, Suites 110 & 210, Houston, Texas 77002</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 713-258-2600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/greenstreet.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.435333,29.667794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenway</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Greenway</h3>
+        <p><strong>Address:</strong> 1 Healthy Way, Houston, Texas 77046</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-916-7300</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/greenway.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.435,29.7313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kingwood</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Kingwood</h3>
+        <p><strong>Address:</strong> 20515 W Lake Houston Pkwy, Humble, Texas 77346</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 832-445-3900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/kingwood.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.177511,30.00914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Houston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lake Houston</h3>
+        <p><strong>Address:</strong> 13600 Will Clayton Pkwy, Humble, Texas 77346</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-812-4100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/lake-houston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.168011,29.980822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Colinas</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Las Colinas</h3>
+        <p><strong>Address:</strong> 7320 N State Highway 161, Irving, Texas 75063</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 214-231-5600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/las-colinas.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.954782,32.904846</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work City Centre (Houston)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work City Centre (Houston)</h3>
+        <p><strong>Address:</strong> 825 Town & Country Lane, Houston, TX 77024</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 713-328-1129</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/tx-houston-city-centre-five.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.55951,29.78175</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work GreenStreet (Houston)</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work GreenStreet (Houston)</h3>
+        <p><strong>Address:</strong> 1201 Fannin Street, Suites #202 & #302, Houston, TX 77002</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 346-299-5977</p>
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/tx-greenstreet.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.402162,29.69181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Life Time Work Shenandoah</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Life Time Work Shenandoah</h3>
+        <p><strong>Address:</strong> 9002 Six Pines Drive, Shenandoah, TX 77380</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://work.lifetime.life/locations/tx-shenandoah.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.459971,30.173732</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mansfield</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Mansfield</h3>
+        <p><strong>Address:</strong> 1551 E Debbie Ln, Mansfield, Texas 76063</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 682-518-7766</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/mansfield.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.113706,32.608686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McKinney at Craig Ranch</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>McKinney at Craig Ranch</h3>
+        <p><strong>Address:</strong> 7910 Collin McKinney Parkway, McKinney, Texas 75070</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 469-748-3100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/mckinney-craig-ranch.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.717383,33.142109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Missouri City</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Missouri City</h3>
+        <p><strong>Address:</strong> 8421 Highway 6, Missouri City, Texas 77459</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-969-2500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/missouri-city.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.544925,29.542306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plano</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Plano</h3>
+        <p><strong>Address:</strong> 7100 Preston Rd, Plano, Texas 75024</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 214-227-0700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/plano.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.793118,33.073098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plano Tennis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Plano Tennis</h3>
+        <p><strong>Address:</strong> 7090 Preston Rd, Plano, Texas 75024</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 469-353-6000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/plano-tennis.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.79383,33.07179</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Antonio 281</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>San Antonio 281</h3>
+        <p><strong>Address:</strong> 18510 US Highway 281 N, San Antonio, Texas 78259</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 210-545-5000</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/san-antonio-281.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-98.466488,29.611454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Antonio at the Rim</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>San Antonio at the Rim</h3>
+        <p><strong>Address:</strong> 5639 Worth Pkwy, San Antonio, Texas 78257</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 210-222-1984</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/san-antonio-at-the-rim.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-98.596862,29.614522</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shenandoah</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Shenandoah</h3>
+        <p><strong>Address:</strong> 9000 Six Pines Drive, Shenandoah, Texas 77380</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 346-786-5950</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/shenandoah.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.459835,30.173723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Lamar</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>South Lamar</h3>
+        <p><strong>Address:</strong> 1301 South Lamar Suite 100, Austin, TX 78704</p>
+        <p><strong>Region:</strong> </p>
+        
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/south-lamar.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.7623,30.25326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugar Land</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Sugar Land</h3>
+        <p><strong>Address:</strong> 1331 Highway 6, Sugar Land, Texas 77478</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 281-340-3100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/sugar-land.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.632681,29.60556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westlake</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Westlake</h3>
+        <p><strong>Address:</strong> 2902 Sam School Road, Westlake, Texas 76262</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 817-693-6500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/tx/westlake.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.17175,32.97877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Jordan</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>South Jordan</h3>
+        <p><strong>Address:</strong> 10996 S River Front Pkwy, South Jordan, Utah 84095</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 801-302-0909</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/ut/south-jordan.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.918518,40.551772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashburn-Sterling</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Ashburn-Sterling</h3>
+        <p><strong>Address:</strong> 44610 Prentice Dr, Sterling, Virginia 20166</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 703-433-0256</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/ashburn-sterling.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.458147,39.003425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centreville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Centreville</h3>
+        <p><strong>Address:</strong> 5900 Trinity Pkwy, Centreville, Virginia 20120</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 703-266-6200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/centreville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.442131,38.840753</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clarendon</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Clarendon</h3>
+        <p><strong>Address:</strong> 1440 N Edgewood St., Arlington, Virginia 22201</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 703-666-2900</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/clarendon.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.09207,38.888796</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairfax</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Fairfax</h3>
+        <p><strong>Address:</strong> 9602 Main St, Fairfax, Virginia 22031</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 703-323-8700</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/fairfax.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.272953,38.844842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gainesville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Gainesville</h3>
+        <p><strong>Address:</strong> 7801 Limestone Drive, Gainesville, Virginia 20155</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 703-743-6100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/gainesville.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.597468,38.788656</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Reston</h3>
+        <p><strong>Address:</strong> 1757 Business Center Dr, Reston, Virginia 20190</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 571-512-3500</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/va/reston.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.328432,38.952965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bellevue</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Bellevue</h3>
+        <p><strong>Address:</strong> 11111 NE 8th St, Bellevue, Washington 98004</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 855-430-5433</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/wa/bellevue.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.192649,47.616582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brookfield</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Brookfield</h3>
+        <p><strong>Address:</strong> 17585 Golf Pkwy, Brookfield, Wisconsin 53045</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 262-899-7100</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/wi/brookfield.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.13196,43.031284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ajax</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Ajax</h3>
+        <p><strong>Address:</strong> 100 Beck Crescent, Ajax, Ontario L1Z 1C9</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 905-619-0211</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/on/ajax.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-79.011774,43.859302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mississauga</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Mississauga</h3>
+        <p><strong>Address:</strong> 3055 Pepper Mill Ct, Mississauga, Ontario L5L 4X5</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 905-363-0200</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/on/mississauga.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-79.706866,43.540137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodbridge</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Woodbridge</h3>
+        <p><strong>Address:</strong> 7405 Weston Rd, Vaughan, Ontario L4L 0H3</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> 289-290-6600</p>
+        <p><strong>Website:</strong> <a href="https://www.lifetime.life/locations/on/woodbridge.html" target="_blank">Visit Website</a></p>
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-79.543828,43.778949</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

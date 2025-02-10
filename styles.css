@@ -454,8 +454,18 @@ body {
     border: 2px solid white;
 }
 
-.location-marker.family {
+.location-marker.redline {
     background-color: #279f46;
+    border: 2px solid white;
+}
+
+.location-marker.D1 {
+    background-color: #ff2b2b;
+    border: 2px solid white;
+}
+
+.location-marker.lifetime {
+    background-color: #21d0e7;
     border: 2px solid white;
 }
 

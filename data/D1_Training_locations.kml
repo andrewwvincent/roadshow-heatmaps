@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="preferred">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="other">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>D1 Training Hoover</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Hoover</h3>
+        <p><strong>Address:</strong> 5508 Stadium Trace Hoover, AL 35244</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (205) 512-3877</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.847941,33.336838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Huntsville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Huntsville</h3>
+        <p><strong>Address:</strong> 5000 Whitesburg Drive  Suite 108 Huntsville, AL 35802</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (256) 480-7099</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.569282,34.690351</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Vestavia Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Vestavia Hills</h3>
+        <p><strong>Address:</strong> 1014 Montgomery Highway Vestavia Hills, AL 35216</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (205) 509-5434</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.790247,33.440442</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Arcadia</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Arcadia</h3>
+        <p><strong>Address:</strong> 2303 N 44th Street Phoenix, AZ 85008</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 690-3990</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.986298,33.473675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Chandler</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Chandler</h3>
+        <p><strong>Address:</strong> 1870 W Germann Rd Suite 2 Chandler, AZ 85286</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 245-5971</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.87353,33.27751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training East Mesa</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training East Mesa</h3>
+        <p><strong>Address:</strong> 1257 S. Crismon Rd Suite 104 Mesa, AZ 85209</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 690-3539</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.61475,33.39183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Gilbert</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Gilbert</h3>
+        <p><strong>Address:</strong> 8490 S Power Rd Gilbert, AZ 85297</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 300-3825</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.686879,33.264746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Ocotillo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Ocotillo</h3>
+        <p><strong>Address:</strong> 4100 S. Arizona Avenue  Suites A-103 & A-111 Chandler, AZ 85248</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 680-0343</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.845053,33.246555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Scottsdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Scottsdale</h3>
+        <p><strong>Address:</strong> 13402 N. Scottsdale Road  Suite B Scottsdale, AZ 85254</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 568-2772</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.926311,33.607953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Tucson</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Tucson</h3>
+        <p><strong>Address:</strong> 2270 W Ina Road  Suite 100 Tucson, AZ 85741</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (520) 436-2640</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.016253,32.338448</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Val Vista</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Val Vista</h3>
+        <p><strong>Address:</strong> 1551 E. Elliot rd. Gilbert, AZ 85234</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (480) 903-7657</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.756856,33.349813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bryant</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bryant</h3>
+        <p><strong>Address:</strong> 1800 N. Reynolds Road  Suite 4 Bryant, AR 72002</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (501) 361-9864</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-92.494478,34.611208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Cabot</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Cabot</h3>
+        <p><strong>Address:</strong> 209 North 10th Street Cabot, AR 72023</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (501) 289-5586</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-92.02573,34.97812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Little Rock</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Little Rock</h3>
+        <p><strong>Address:</strong> 10 Viewpointe Cove Little Rock, AR 72223</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (501) 289-5609</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-92.413192,34.799021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Rogers</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Rogers</h3>
+        <p><strong>Address:</strong> 4667 S. Dixieland Road Rogers, AR 72758</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (501) 382-8906</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-94.142778,36.274744</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Huntington Beach</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Huntington Beach</h3>
+        <p><strong>Address:</strong> 10188 Adams Ave Huntington Beach, CA 92646</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (714) 908-9038</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.950857,33.671824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mission Viejo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mission Viejo</h3>
+        <p><strong>Address:</strong> 555 The Shops at Mission Viejo Mission Viejo, CA 92691</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (949) 799-1275</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.669255,33.558002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Petaluma</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Petaluma</h3>
+        <p><strong>Address:</strong> 1420 E Washington St Petaluma, CA 94954</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (707) 593-0935</p>
+        
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.625054,38.249772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Pleasanton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Pleasanton</h3>
+        <p><strong>Address:</strong> 4299 Rosewood Dr, Suite 100 Pleasanton, CA 94588</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (925) 369-7058</p>
+        
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.873248,37.699517</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Rancho Cucamonga</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Rancho Cucamonga</h3>
+        <p><strong>Address:</strong> 10768 Foothill Blvd STE 100 Rancho Cucamonga, CA 91730</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (909) 265-7952</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.569841,34.108732</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Roseville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Roseville</h3>
+        <p><strong>Address:</strong> 410 Roseville Sq Roseville, CA 95678</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (916) 633-7233</p>
+        
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-121.276171,38.74526</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Temecula</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Temecula</h3>
+        <p><strong>Address:</strong> 40820 Winchester Rd  Suite 1425 Temecula, CA 92591</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (951) 228-7598</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-117.154274,33.52496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Torrance</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Torrance</h3>
+        <p><strong>Address:</strong> 21760 Hawthorne Blvd Ste 284A Torrance, CA 90503</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (310) 591-3147</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-118.349518,33.830623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Colorado Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Colorado Springs</h3>
+        <p><strong>Address:</strong> 5815 Mark Dabling Boulevard Colorado Springs, CO 80919</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (719) 259-3230</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.819843,38.916837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Greenwood Village</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Greenwood Village</h3>
+        <p><strong>Address:</strong> 6570 S Yosemite Street Greenwood Village, CO 80111</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (720) 571-9260</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.888202,39.59725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Littleton SW</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Littleton SW</h3>
+        <p><strong>Address:</strong> 8154 S. Kipling Parkway Unit A-110 Littleton, CO 80127</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (303) 309-4059</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-105.110276,39.625012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Southern Colorado</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Southern Colorado</h3>
+        <p><strong>Address:</strong> 2225 Executive Circle, Suite 136 Colorado Springs, CO 80906</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (719) 695-7432</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-104.78591,38.790235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Westminster</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Westminster</h3>
+        <p><strong>Address:</strong> 4750 W. 120th Avenue, Suite 100 Westminster, CO 80020</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (720) 734-9027</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-105.047637,39.912296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Norwalk</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Norwalk</h3>
+        <p><strong>Address:</strong> 100 N. Water Street  #SL0600 Norwalk, CT 06854</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (203) 941-4818</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.418437,41.104856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Coral Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Coral Springs</h3>
+        <p><strong>Address:</strong> 3450 NW 62nd Ave Margate, FL 33063</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (954) 250-3046</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.204048,26.271368</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Deerfield Beach</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Deerfield Beach</h3>
+        <p><strong>Address:</strong> 1401 Green Road  Suites D/E/F Deerfield Beach, FL 33064</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (954) 280-9663</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.142979,26.291786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training DeLand</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training DeLand</h3>
+        <p><strong>Address:</strong> 2610 S Woodland Blvd Deland, FL 32720</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (386) 515-7543</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.30015,28.982654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Downtown Orlando</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Downtown Orlando</h3>
+        <p><strong>Address:</strong> 2771 E. Livingston Street Orlando, FL 32803</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (407) 753-1293</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.348254,28.548217</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Dr. Phillips</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Dr. Phillips</h3>
+        <p><strong>Address:</strong> 11444 S. Apopka Vineland Rd., Suite 105 Orlando, FL 32836</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (407) 554-5251</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.503672,28.399488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training East Jacksonville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training East Jacksonville</h3>
+        <p><strong>Address:</strong> 11744 Beach Blvd Jacksonville, FL 32246</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (904) 901-6470</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.513574,30.285899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Fort Myers</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Fort Myers</h3>
+        <p><strong>Address:</strong> 9359 Six-Mile Cypress Parkway  STE 415 Fort Myers, FL 33966</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (239) 208-5017</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.807319,26.606508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Gainesville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Gainesville</h3>
+        <p><strong>Address:</strong> 426 SW 140th Ter  Suite 1 Newberry, FL 32669</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (352) 585-8416</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.491371,29.649514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Lakewood Ranch</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Lakewood Ranch</h3>
+        <p><strong>Address:</strong> 3025 Lakewood Ranch Blvd.  Suite 102 Lakewood Ranch, FL 34211</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (941) 260-2518</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.430228,27.475406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Naples</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Naples</h3>
+        <p><strong>Address:</strong> 3397 Pine Ridge Road Naples, FL 34109</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (239) 970-8044</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.74913,26.21233</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Niceville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Niceville</h3>
+        <p><strong>Address:</strong> 4544 Hwy 20 E Niceville, FL 32578</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (850) 605-8431</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.418767,30.486936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training of Clermont</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training of Clermont</h3>
+        <p><strong>Address:</strong> 2631 S. HWY 27, Suite 101 Clermont, FL 34711</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (352) 723-5262</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.733357,28.531555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training of Gulf Breeze</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training of Gulf Breeze</h3>
+        <p><strong>Address:</strong> 3335 Gulf Breeze Pkwy. Suite 107A Gulf Breeze, FL 32563</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (850) 641-1172</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.08467,30.385919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Ponte Vedra</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Ponte Vedra</h3>
+        <p><strong>Address:</strong> 10860 US Highway 1 North  #202 Ponte Vedra Beach, FL 32081</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (904) 747-9344</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.457917,30.08594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Port Orange</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Port Orange</h3>
+        <p><strong>Address:</strong> 3813 S Nova Rd  Ste 104 Port Orange, FL 32127</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (386) 674-1509</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.002914,29.127813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training SE Orlando</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training SE Orlando</h3>
+        <p><strong>Address:</strong> 206 N. Dean Road  Suite 100 Orlando, FL 32825</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (407) 743-6616</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.245408,28.5443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training St. Petersburg</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training St. Petersburg</h3>
+        <p><strong>Address:</strong> 7141 22nd Ave. N St. Petersburg, FL 33710</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (727) 746-5922</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.737642,27.792336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Tallahassee</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Tallahassee</h3>
+        <p><strong>Address:</strong> 1706 Capital Circle NE  Suite #8 Tallahassee, FL 32308</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (850) 407-2658</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.228822,30.464062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Westchase</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Westchase</h3>
+        <p><strong>Address:</strong> 3161-6 Curlew Rd. Oldsmar, FL 34677</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (727) 349-5572</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.6976,28.049307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Winter Garden</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Winter Garden</h3>
+        <p><strong>Address:</strong> 765 Garden Commerce Parkway Winter Garden, FL 34787</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (833) 861-4151</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.56751,28.553556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Athens</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Athens</h3>
+        <p><strong>Address:</strong> 7920 Macon HWY Suite 150 Watkinsville, GA 30677</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (706) 690-4162</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.412624,33.887221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Brookhaven</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Brookhaven</h3>
+        <p><strong>Address:</strong> 3367 Buford Hwy NE  Unit 900 Brookhaven, GA 30329</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (470) 722-2976</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.325569,33.843653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Buford</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Buford</h3>
+        <p><strong>Address:</strong> 2725 Hamilton Mill Road  Suite A800 Buford, GA 30519</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (678) 839-9942</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.919752,34.081332</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Macon</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Macon</h3>
+        <p><strong>Address:</strong> 1625 Bass Road Suite 285 Macon, GA 31210</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (478) 569-8111</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.7271,32.930452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Marietta</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Marietta</h3>
+        <p><strong>Address:</strong> 4075 Charles Hardy Pkwy  Suite 137 Dallas, GA 30157</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (470) 933-5983</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.725779,33.935579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Milton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Milton</h3>
+        <p><strong>Address:</strong> 12850 Hwy 9 N.  Suite 1800 Alpharetta, GA 30004</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (770) 450-8370</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.278709,34.096177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Norcross</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Norcross</h3>
+        <p><strong>Address:</strong> 5250 Triangle Parkway  Suite 400 Norcross, GA 30092</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (855) 783-7650</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.224598,33.978497</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Peachtree City</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Peachtree City</h3>
+        <p><strong>Address:</strong> 611 Hwy 74 South Suite 300 Peachtree City, GA 30269</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (770) 830-3908</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.566912,33.366495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Sandy Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Sandy Springs</h3>
+        <p><strong>Address:</strong> 6335-H Roswell Road Sandy Springs, GA 30328</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (404) 341-7145</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.379119,33.921597</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Upper Westside Atlanta</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Upper Westside Atlanta</h3>
+        <p><strong>Address:</strong> 1483 Chattahoochee Ave  Suite 100 Atlanta, GA 30318</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (404) 689-1789</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.435668,33.809046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Boise</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Boise</h3>
+        <p><strong>Address:</strong> 3750 E. Pewter Falls Street  STE 120 Meridian, ID 83642</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (208) 502-2822</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-116.34673,43.58719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Nampa</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Nampa</h3>
+        <p><strong>Address:</strong> 1227 N. Galleria Dr. Nampa, ID 83687</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (208) 418-0684</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-116.50881,43.59597</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Arlington Heights</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Arlington Heights</h3>
+        <p><strong>Address:</strong> 71 W Rand Road Arlington Heights, IL 60004</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (847) 416-8590</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.98492,42.11408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bloomingdale</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bloomingdale</h3>
+        <p><strong>Address:</strong> 400 Army Trail Road  #103 Bloomingdale, IL 60108</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (630) 934-1558</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.113925,41.93777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Fox Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Fox Valley</h3>
+        <p><strong>Address:</strong> 403 S IL-59 Aurora, IL 60504</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (630) 315-0277</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.206257,41.729917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training North Shore</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training North Shore</h3>
+        <p><strong>Address:</strong> 2345 Willow Road Glenview, IL 60025</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (847) 686-3144</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.81345,42.09865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Oswego</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Oswego</h3>
+        <p><strong>Address:</strong> 1670 Douglas Rd Oswego, IL 60543</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (630) 884-5637</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-88.311028,41.69697</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Rockford</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Rockford</h3>
+        <p><strong>Address:</strong> 1003 West Lane Road, Suite A Machesney Park, IL 61115</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (815) 569-5630</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-89.03571,42.36371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Carmel</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Carmel</h3>
+        <p><strong>Address:</strong> 650 W. Carmel Dr., Suite 120 Carmel, IN 46032</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (317) 751-9243</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.140325,39.965635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Fort Wayne SW</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Fort Wayne SW</h3>
+        <p><strong>Address:</strong> 9307 Illinois Road Fort Wayne, IN 46804</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (260) 544-2436</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-85.263905,41.073797</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Merrillville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Merrillville</h3>
+        <p><strong>Address:</strong> 1627 E 80th Ave Merrillville, IN 46410</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (219) 990-0235</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.315405,41.473674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Coralville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Coralville</h3>
+        <p><strong>Address:</strong> 2441 James St. Suite 2 Coralville, IA 52241</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (319) 727-1915</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-91.603702,41.684936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Des Moines</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Des Moines</h3>
+        <p><strong>Address:</strong> 890 Southeast Olson Drive Waukee, IA 50263</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (515) 325-8739</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.857339,41.607091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training East Wichita</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training East Wichita</h3>
+        <p><strong>Address:</strong> 12938 E 21st N  Suite 120 Wichita, KS 67230</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (316) 444-6846</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.195715,37.728845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training West Wichita</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training West Wichita</h3>
+        <p><strong>Address:</strong> 3801 N Ridge Rd  Ste 130 Wichita, KS 67205</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (316) 375-2776</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.426939,37.752641</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bowling Green</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bowling Green</h3>
+        <p><strong>Address:</strong> 946 Searcy Way Bowling Green, KY 42103</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (270) 229-6504</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.418751,36.955908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Northern Kentucky</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Northern Kentucky</h3>
+        <p><strong>Address:</strong> 1952 North Bend Rd Hebron, KY 41048</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (859) 904-5445</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.712066,39.091804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Baton Rouge</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Baton Rouge</h3>
+        <p><strong>Address:</strong> 6401 Bluebonnet Blvd  Ste 505 Baton Rouge, LA 70836</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (225) 460-4753</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-91.087218,30.388343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mandeville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mandeville</h3>
+        <p><strong>Address:</strong> 3999 Hwy 190 East Service Rd  Suite B Covington, LA 70433</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (985) 980-4898</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.082764,30.41573</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Shreveport</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Shreveport</h3>
+        <p><strong>Address:</strong> 727 American Way Shreveport, LA 71106</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (318) 252-8046</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-93.74237,32.4218</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training West NOLA</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training West NOLA</h3>
+        <p><strong>Address:</strong> 530 Elmwood Park Blvd Elmwood, LA 70123</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (504) 386-4350</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.185345,29.9499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Boston-Burlington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Boston-Burlington</h3>
+        <p><strong>Address:</strong> 60 South Ave. Burlington, MA 01803</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (781) 355-9540</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-71.219992,42.483567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Grand Rapids</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Grand Rapids</h3>
+        <p><strong>Address:</strong> 5435 28th Street Court SE Grand Rapids, MI 49546</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (616) 319-1245</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-85.532452,42.917392</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Kalamazoo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Kalamazoo</h3>
+        <p><strong>Address:</strong> 6800 S Westnedge Ave Suite 6 Portage, MI 49002</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (269) 248-7139</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-85.59047,42.217933</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Lake Orion</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Lake Orion</h3>
+        <p><strong>Address:</strong> 1216 S Lapeer Rd. Lake Orion, MI 48360</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (248) 814-2354</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-83.244253,42.764949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training O'Fallon</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training O'Fallon</h3>
+        <p><strong>Address:</strong> 3820 Monticello Plaza Drive O'Fallon, MO 63304</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (636) 689-5880</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.688619,38.733441</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training St. Louis West</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training St. Louis West</h3>
+        <p><strong>Address:</strong> 14015 Manchester Road Ballwin, MO 63011</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (636) 244-6345</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-90.492854,38.596165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Billings</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Billings</h3>
+        <p><strong>Address:</strong> 1678 Shiloh Rd  Ste 3 Billings, MT 59106</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (406) 319-3577</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-108.618941,45.786395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training West Omaha</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training West Omaha</h3>
+        <p><strong>Address:</strong> 19295 Grant Ave. Omaha, NE 68022</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (402) 940-7523</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.21741,41.280231</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Centennial Hills</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Centennial Hills</h3>
+        <p><strong>Address:</strong> 7083 W. Craig Road, Suite 180 Las Vegas, NV 89129</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (702) 766-5807</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.248826,36.239707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Henderson</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Henderson</h3>
+        <p><strong>Address:</strong> 1300 W Sunset Road  Ste 1920 Henderson, NV 89014</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (702) 803-3172</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-115.042264,36.067103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bergen County</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bergen County</h3>
+        <p><strong>Address:</strong> 107 Pleasant Avenue Upper Saddle River, NJ 07458</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (201) 905-2387</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.117548,41.051083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Middletown</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Middletown</h3>
+        <p><strong>Address:</strong> 1519 Route 35 Middletown, NJ 07748</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (732) 329-7212</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.125754,40.404929</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Princeton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Princeton</h3>
+        <p><strong>Address:</strong> 3373 Brunswick Pike RT.1  #46 Lawrenceville, NJ 08648</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (833) 316-0576</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.682456,40.299031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Willowbrook Mall</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Willowbrook Mall</h3>
+        <p><strong>Address:</strong> 330 Willowbrook Blvd Wayne, NJ 07470</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (973) 874-1495</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.261641,40.886583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Armonk</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Armonk</h3>
+        <p><strong>Address:</strong> 130 Business Park Dr Armonk, NY 10504</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (914) 829-3260</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.708503,41.11707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Fairport</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Fairport</h3>
+        <p><strong>Address:</strong> 25 Parce Ave.  Suite 115 Fairport, NY 14450</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (585) 440-3213</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.443581,43.105027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Ridge Hill</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Ridge Hill</h3>
+        <p><strong>Address:</strong> 26 Market St Yonkers, NY 10710</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (914) 601-3337</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.855924,40.961242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Holly Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Holly Springs</h3>
+        <p><strong>Address:</strong> 250 Premier Dr Holly Springs, NC 27540</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (919) 535-4952</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.859042,35.652033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mooresville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mooresville</h3>
+        <p><strong>Address:</strong> 221 Norman Station Blvd.  Suite N Mooresville, NC 28117</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (704) 703-9051</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.855418,35.587385</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training of Cary</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training of Cary</h3>
+        <p><strong>Address:</strong> 1279 NW Maynard Rd Cary, NC 27513</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (919) 276-8968</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.811643,35.785891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Prosperity</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Prosperity</h3>
+        <p><strong>Address:</strong> 5350 Docia Crossing Road; Suite C Charlotte, NC 28269</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (704) 228-0321</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.786818,35.367122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Winston-Salem</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Winston-Salem</h3>
+        <p><strong>Address:</strong> 147 Jonestown Road Winston-Salem, NC 27104</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (336) 750-6221</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.334721,36.07803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Anderson Township</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Anderson Township</h3>
+        <p><strong>Address:</strong> 8315 Beechmont Ave  Suite 40 Cincinnati, OH 45255</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (513) 982-8315</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.324572,39.071763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Aurora</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Aurora</h3>
+        <p><strong>Address:</strong> 18825 N. Marketplace Dr. Aurora, OH 44202</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (330) 822-6770</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.345509,41.31344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Cincy North</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Cincy North</h3>
+        <p><strong>Address:</strong> 9573 Fields Ertel Road Loveland, OH 45140</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (513) 434-1992</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.297429,39.289165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Edmond</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Edmond</h3>
+        <p><strong>Address:</strong> 1289 E 15th Street  Suite 112 Edmond, OK 73013</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (405) 363-2569</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.463314,35.638352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Beaverton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Beaverton</h3>
+        <p><strong>Address:</strong> 11445 SW Scholls Ferry Rd. Beaverton, OR 97008</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (971) 265-4149</p>
+        
+        <p><strong>Type:</strong> Preferred Target</p>
+      ]]></description>
+      <Point>
+        <coordinates>-122.794055,45.446605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bux-Mont</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bux-Mont</h3>
+        <p><strong>Address:</strong> 285 Bethlehem Pike Colmar, PA 18915</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (610) 379-2559</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.25855,40.27487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Malvern</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Malvern</h3>
+        <p><strong>Address:</strong> 480 Lancaster Ave Suite 3 Malvern, PA 19355</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (610) 709-6706</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-75.563824,40.036113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training North Pittsburgh</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training North Pittsburgh</h3>
+        <p><strong>Address:</strong> 20111 Rte 19 Suite 302A Cranberry Township, PA 16066</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (724) 262-5991</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.103447,40.682341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Pittsburgh West</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Pittsburgh West</h3>
+        <p><strong>Address:</strong> 6522 Steubenville Pike Pittsburgh, PA 15205</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (412) 775-3953</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.160618,40.449192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training East Cooper</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training East Cooper</h3>
+        <p><strong>Address:</strong> 1220 Ben Sawyer Blvd Mt Pleasant, SC 29464</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (843) 632-5233</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-79.859589,32.79549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Greenville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Greenville</h3>
+        <p><strong>Address:</strong> 1280 Woodruff Rd Greenville, SC 29607</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (864) 215-4400</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.285599,34.820735</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Indian Land</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Indian Land</h3>
+        <p><strong>Address:</strong> 8811 Charlotte Highway, Suite 104 Indian Land, SC 29707</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (803) 599-2798</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.853952,34.968847</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Blount</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Blount</h3>
+        <p><strong>Address:</strong> 3443 Louisville Road Louisville, TN 37777</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (865) 390-7747</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-84.055204,35.818878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Chattanooga</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Chattanooga</h3>
+        <p><strong>Address:</strong> 7430 Commons Boulevard Chattanooga, TN 37421</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (423) 220-4282</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-85.14836,35.03477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Cool Springs</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Cool Springs</h3>
+        <p><strong>Address:</strong> 7115 South Springs Drive Franklin, TN 37067</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (615) 235-5091</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.81494,35.95196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Hardin Valley</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Hardin Valley</h3>
+        <p><strong>Address:</strong> 10258 Hardin Valley Road Hardin Valley, TN 37932</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (865) 737-5417</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.68423,35.356632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Hendersonville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Hendersonville</h3>
+        <p><strong>Address:</strong> 117 Saundersville Rd. Hendersonville, TN 37075</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (615) 558-5447</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.591303,36.327015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Lakeland</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Lakeland</h3>
+        <p><strong>Address:</strong> 9811 US Hwy 64 Arlington, TN 38002</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (901) 669-3713</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-89.734686,35.204902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Murfreesboro</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Murfreesboro</h3>
+        <p><strong>Address:</strong> 3119 Medical Center Parkway  A-1 Murfreesboro, TN 37129</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (615) 492-8344</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.453733,35.866193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Spring Hill</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Spring Hill</h3>
+        <p><strong>Address:</strong> 1006 Crossing Blvd. Spring Hill, TN 37174</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (615) 570-4507</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.940365,35.741011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Tri Cities</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Tri Cities</h3>
+        <p><strong>Address:</strong> 130 West Springbrook Drive Johnson City, TN 37604</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (423) 226-5784</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-82.382909,36.35116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training West Nashville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training West Nashville</h3>
+        <p><strong>Address:</strong> 2 City Blvd Nashville, TN 37209</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (615) 637-8511</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-86.8208,36.151406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Alamo Ranch</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Alamo Ranch</h3>
+        <p><strong>Address:</strong> 11121 Westwood Loop Ste 104 San Antonio, TX 78253</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (210) 348-3842</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-98.711742,29.493464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Aledo</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Aledo</h3>
+        <p><strong>Address:</strong> 250 Bailey Ranch Road Aledo, TX 76008</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (682) 463-1975</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.605085,32.709762</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Allen</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Allen</h3>
+        <p><strong>Address:</strong> 500 W Bethany Dr  Suite 120 Allen, TX 75013</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (972) 497-8379</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.67801,33.092325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Arlington</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Arlington</h3>
+        <p><strong>Address:</strong> 3811 S. Cooper Street  Suite #1198 Arlington, TX 76015</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (817) 587-3483</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.129592,32.679339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Atascocita</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Atascocita</h3>
+        <p><strong>Address:</strong> 7040 FM 1960 East Unit B Humble, TX 77346</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (713) 597-7181</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.171511,29.996053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Bellaire</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Bellaire</h3>
+        <p><strong>Address:</strong> 5300 N. Braeswood Blvd  Suite 44 Houston, TX 77096</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (346) 586-8141</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.4778,29.67923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Boerne</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Boerne</h3>
+        <p><strong>Address:</strong> 132 Old San Antonio Road Boerne, TX 78006</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (830) 406-6270</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-98.709792,29.762069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Cedar Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Cedar Park</h3>
+        <p><strong>Address:</strong> 601 W. New Hope Drive Cedar Park, TX 78613</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (737) 344-4840</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.842728,30.531235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Colleyville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Colleyville</h3>
+        <p><strong>Address:</strong> 4906 Colleyville Blvd  Suite 214 Colleyville, TX 76034</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (817) 755-1172</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.156619,32.88264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Dallas</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Dallas</h3>
+        <p><strong>Address:</strong> 8081 Walnut Hill Lane Dallas, TX 75231</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (214) 617-9107</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.767227,32.882193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Denton</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Denton</h3>
+        <p><strong>Address:</strong> 2119 Sadau Ct Denton, TX 76210</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (214) 880-6223</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.102067,33.188754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training East Woodlands</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training East Woodlands</h3>
+        <p><strong>Address:</strong> 8821 Metropark Dr  STE 300 Shenandoah, TX 77385</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (832) 772-2393</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.452568,30.195221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Firewheel</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Firewheel</h3>
+        <p><strong>Address:</strong> 475 Coneflower Drive Garland, TX 75040</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (469) 552-2203</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.61233,32.95298</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Friendswood</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Friendswood</h3>
+        <p><strong>Address:</strong> 709 W Parkwood Ave Friendswood, TX 77546</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (346) 633-4995</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.192095,29.505099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Frisco</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Frisco</h3>
+        <p><strong>Address:</strong> 4944 Preston Road, Suite 252, Frisco, TX 75034</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (972) 784-8533</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.803965,33.11965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Hulen</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Hulen</h3>
+        <p><strong>Address:</strong> 4800 S. Hulen St., Space 1165 Ft. Worth, TX 76132</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (817) 592-9200</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.38827,32.67578</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Jollyville</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Jollyville</h3>
+        <p><strong>Address:</strong> 11521 N FM 620, Suite 750 Austin, TX 78726</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (512) 883-0029</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.826989,30.452264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mansfield</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mansfield</h3>
+        <p><strong>Address:</strong> 1836 Cannon Dr  Suite 600 Mansfield, TX 76063</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (817) 592-9965</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.107898,32.573008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mesquite</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mesquite</h3>
+        <p><strong>Address:</strong> 1220 N. Town East Blvd Suite 660 Mesquite, TX 75150</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (214) 416-9607</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.613914,32.809709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Midland</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Midland</h3>
+        <p><strong>Address:</strong> 3001 Courtyard Drive  Suite C101 Midland, TX 79705</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (432) 226-7605</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-102.124798,32.032129</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Mont Belvieu</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Mont Belvieu</h3>
+        <p><strong>Address:</strong> 10955 Eagle Drive Mont Belvieu, TX 77523</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (281) 713-4395</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-94.862715,29.851463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training of Lake Travis</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training of Lake Travis</h3>
+        <p><strong>Address:</strong> 14532 Hamilton Pool Rd Austin, TX 78738</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (512) 862-0554</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.970566,30.307639</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Prosper</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Prosper</h3>
+        <p><strong>Address:</strong> 100 S. Preston Road Suite 30 Prosper, TX 75078</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (972) 435-6640</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.793648,33.22966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training San Antonio</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training San Antonio</h3>
+        <p><strong>Address:</strong> 17530 Henderson Pass San Antonio, TX 78232</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (210) 853-2298</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-98.462997,29.60477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Southlake</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Southlake</h3>
+        <p><strong>Address:</strong> 500 W. Southlake Blvd, Suite 100 Southlake, TX 76092</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (817) 839-3563</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-97.158436,32.941723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Spring</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Spring</h3>
+        <p><strong>Address:</strong> 8727 W. Rayford Rd.  Suite 150 Spring, TX 77389</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (832) 861-7801</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.551926,30.111852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Sugar Land</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Sugar Land</h3>
+        <p><strong>Address:</strong> 16550 Southwest Freeway Sugar Land, TX 77479</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (832) 430-7659</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.632885,29.591754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training The Woodlands</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training The Woodlands</h3>
+        <p><strong>Address:</strong> 30340 FM 2978  Suite 100 The Woodlands, TX 77354</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (877) 372-1362</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-95.590815,30.189816</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training West Frisco</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training West Frisco</h3>
+        <p><strong>Address:</strong> 8275 Judges Way  Suite 100A Frisco, TX 75036</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (469) 895-4088</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-96.89264,33.147694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Sandy</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Sandy</h3>
+        <p><strong>Address:</strong> 61 West 10600 South Sandy, UT 84070</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (801) 609-3129</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-111.892598,40.558093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Alexandria</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Alexandria</h3>
+        <p><strong>Address:</strong> 6550 Little River Turnpike  Unit A Alexandria, VA 22313</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (703) 935-5762</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.161211,38.823242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Midlothian</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Midlothian</h3>
+        <p><strong>Address:</strong> 15808 WC Main Street Midlothian, VA 23113</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (804) 376-8633</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.692207,37.515921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Reston</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Reston</h3>
+        <p><strong>Address:</strong> 1700 Bracknell Dr. Suite A Reston, VA 20194</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (703) 951-4869</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.357683,38.967325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Virginia Beach</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Virginia Beach</h3>
+        <p><strong>Address:</strong> 3636 Virginia Beach Boulevard  Unit #109 Virginia Beach, VA 23452</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (757) 530-7152</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-76.097426,36.841561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Winchester</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Winchester</h3>
+        <p><strong>Address:</strong> 178 Costello Dr Winchester, VA 22602</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (540) 616-2745</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-78.156717,39.156059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D1 Training Madison West</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>D1 Training Madison West</h3>
+        <p><strong>Address:</strong> 243 West Towne Mall  Unit E5 Madison, WI 53719</p>
+        <p><strong>Region:</strong> </p>
+        <p><strong>Phone:</strong> (608) 535-5946</p>
+        
+        <p><strong>Type:</strong> Preferred</p>
+      ]]></description>
+      <Point>
+        <coordinates>-89.509325,43.056791</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

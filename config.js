@@ -10,232 +10,32 @@ const config = {
     popupInfo: ["Location_Name"],
     polygonLayers: [
         {
-            name: "Albany",
-            file: "data/KMLs/Albany.kml"
-        },
-        {
-            name: "Anchorage",
-            file: "data/KMLs/Anchorage.kml"
-        },
-        {
             name: "Aspen",
             file: "data/KMLs/Aspen.kml"
-        },
-        {
-            name: "Atlanta",
-            file: "data/KMLs/Atlanta.kml"
-        },
-        {
-            name: "Austin",
-            file: "data/KMLs/Austin.kml"
-        },
-        {
-            name: "Baltimore",
-            file: "data/KMLs/Baltimore.kml"
-        },
-        {
-            name: "Bay Area",
-            file: "data/KMLs/Bay_Area.kml"
-        },
-        {
-            name: "Bloomington IL",
-            file: "data/KMLs/Bloomington_IL.kml"
-        },
-        {
-            name: "Boston",
-            file: "data/KMLs/Boston.kml"
-        },
-        {
-            name: "Burlington VT",
-            file: "data/KMLs/Burlington_VT.kml"
-        },
-        {
-            name: "Cedar Rapids IA",
-            file: "data/KMLs/Cedar_Rapids_IA.kml"
-        },
-        {
-            name: "Charleston",
-            file: "data/KMLs/Charleston.kml"
-        },
-        {
-            name: "Charlotte",
-            file: "data/KMLs/Charlotte.kml"
-        },
-        {
-            name: "Charlottesville",
-            file: "data/KMLs/Charlottesville.kml"
-        },
-        {
-            name: "Chicago",
-            file: "data/KMLs/Chicago.kml"
-        },
-        {
-            name: "Cincinnati",
-            file: "data/KMLs/Cincinnati.kml"
-        },
-        {
-            name: "Columbus OH",
-            file: "data/KMLs/Columbus_OH.kml"
-        },
-        {
-            name: "Dallas",
-            file: "data/KMLs/Dallas.kml"
-        },
-        {
-            name: "Denver",
-            file: "data/KMLs/Denver.kml"
-        },
-        {
-            name: "Des Moines",
-            file: "data/KMLs/Des_Moines.kml"
-        },
-        {
-            name: "Detroit",
-            file: "data/KMLs/Detroit.kml"
-        },
-        {
-            name: "Fort Collins CO",
-            file: "data/KMLs/Fort_Collins_CO.kml"
-        },
-        {
-            name: "Fort Worth",
-            file: "data/KMLs/Fort_Worth.kml"
-        },
-        {
-            name: "Greensboro",
-            file: "data/KMLs/Greensboro.kml"
-        },
-        {
-            name: "Hartford CT",
-            file: "data/KMLs/Hartford_CT.kml"
         },
         {
             name: "Houston",
             file: "data/KMLs/Houston.kml"
         },
         {
-            name: "Indianapolis",
-            file: "data/KMLs/Indianapolis.kml"
-        },
-        {
-            name: "Jacksonville",
-            file: "data/KMLs/Jacksonville.kml"
-        },
-        {
-            name: "Kansas City",
-            file: "data/KMLs/Kansas_City.kml"
-        },
-        {
-            name: "Las Vegas",
-            file: "data/KMLs/Las_Vegas.kml"
-        },
-        {
-            name: "Los Angeles",
-            file: "data/KMLs/Los_Angeles.kml"
-        },
-        {
-            name: "Milwaukee",
-            file: "data/KMLs/Milwaukee.kml"
-        },
-        {
-            name: "Minneapolis",
-            file: "data/KMLs/Minneapolis.kml"
-        },
-        {
             name: "NYC",
             file: "data/KMLs/NYC.kml"
-        },
-        {
-            name: "Nashville",
-            file: "data/KMLs/Nashville.kml"
-        },
-        {
-            name: "Newark",
-            file: "data/KMLs/Newark.kml"
         },
         {
             name: "Orlando",
             file: "data/KMLs/Orlando.kml"
         },
         {
-            name: "Philadelhpia",
-            file: "data/KMLs/Philadelhpia.kml"
-        },
-        {
             name: "Phoenix",
             file: "data/KMLs/Phoenix.kml"
-        },
-        {
-            name: "Pittsburgh",
-            file: "data/KMLs/Pittsburgh.kml"
-        },
-        {
-            name: "Portland OR",
-            file: "data/KMLs/Portland_OR.kml"
-        },
-        {
-            name: "Raleigh",
-            file: "data/KMLs/Raleigh.kml"
-        },
-        {
-            name: "Reno",
-            file: "data/KMLs/Reno.kml"
-        },
-        {
-            name: "Richmond",
-            file: "data/KMLs/Richmond.kml"
-        },
-        {
-            name: "Rochester MN",
-            file: "data/KMLs/Rochester_MN.kml"
-        },
-        {
-            name: "Sacramento",
-            file: "data/KMLs/Sacramento.kml"
-        },
-        {
-            name: "Salt Lake City",
-            file: "data/KMLs/Salt_Lake_City.kml"
-        },
-        {
-            name: "San Diego",
-            file: "data/KMLs/San_Diego.kml"
         },
         {
             name: "Santa Barbara",
             file: "data/KMLs/Santa_Barbara.kml"
         },
         {
-            name: "Santa Fe",
-            file: "data/KMLs/Santa_Fe.kml"
-        },
-        {
-            name: "Seattle",
-            file: "data/KMLs/Seattle.kml"
-        },
-        {
-            name: "Springfield IL",
-            file: "data/KMLs/Springfield_IL.kml"
-        },
-        {
-            name: "St. Louis",
-            file: "data/KMLs/St._Louis.kml"
-        },
-        {
-            name: "Stamford",
-            file: "data/KMLs/Stamford.kml"
-        },
-        {
             name: "Tampa",
             file: "data/KMLs/Tampa.kml"
-        },
-        {
-            name: "Trenton",
-            file: "data/KMLs/Trenton.kml"
-        },
-        {
-            name: "Washington DC",
-            file: "data/KMLs/Washington_DC.kml"
         },
         {
             name: "West Palm Beach",

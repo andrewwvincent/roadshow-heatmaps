@@ -24,27 +24,6 @@
                     <select id="city-selector" class="city-dropdown"></select>
                 </div>
 
-                <!-- Stats Table -->
-                <div class="stats-container hidden">
-                    <table class="stats-table">
-                        <tr>
-                            <th></th>
-                            <th>Min</th>
-                            <th>Max</th>
-                        </tr>
-                        <tr>
-                            <td>$250k Kids</td>
-                            <td id="kids250k-min">-</td>
-                            <td id="kids250k-max">-</td>
-                        </tr>
-                        <tr>
-                            <td>$500k Kids</td>
-                            <td id="kids500k-min">-</td>
-                            <td id="kids500k-max">-</td>
-                        </tr>
-                    </table>
-                </div>
-
                 <!-- Location Filters -->
                 <div class="filter-section">
                     <h3>Location Filters</h3>
@@ -59,21 +38,6 @@
                             <label for="other-locations">Other Locations</label>
                             <button id="other-labels-toggle" class="label-toggle">Labels Off</button>
                         </div>
-                        <div class="filter-row">
-                            <input type="checkbox" id="redline-locations">
-                            <label for="redline-locations">Redline Athletics Locations</label>
-                            <button id="redline-labels-toggle" class="label-toggle">Labels Off</button>
-                        </div>
-                        <div class="filter-row">
-                            <input type="checkbox" id="D1-locations">
-                            <label for="D1-locations">D1 Training Locations</label>
-                            <button id="D1-labels-toggle" class="label-toggle">Labels Off</button>
-                        </div>
-                        <div class="filter-row">
-                            <input type="checkbox" id="lifetime-locations">
-                            <label for="lifetime-locations">Life Time Locations</label>
-                            <button id="lifetime-labels-toggle" class="label-toggle">Labels Off</button>
-                        </div>
                     </div>
                 </div>
 
@@ -87,7 +51,7 @@
                         </div>
                         <div class="bucket-inputs">
                             <div class="bucket-row">
-                                <label>Bucket 1 (1500+):</label>
+                                <label>Bucket 1:</label>
                                 <input type="number" class="range-min" value="1500" min="0">
                                 <input type="number" class="range-max" disabled>
                             </div>
@@ -128,7 +92,7 @@
                     <form id="filter-form" onsubmit="return false;">
                         <div class="income-group">
                             <div class="income-header">
-                                <input type="checkbox" class="parent-checkbox" id="income250k-parent">
+                                <input type="checkbox" class="parent-checkbox" id="income250k-parent" checked>
                                 <h3>$250k Households</h3>
                             </div>
                             <div class="layer-group" id="income250k-group">

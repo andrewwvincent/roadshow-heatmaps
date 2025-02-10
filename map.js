@@ -6,16 +6,13 @@ let visibleCategories = [];
 
 // Global variables for locations
 let allLocations = null;
-let locations = { preferred: [], other: [], redline: [], D1: [], life_time: [] };
+let locations = { preferred: [], other: [] };
 let locationMarkers = [];
 
 // Add label toggle state
 let labelToggles = {
     preferred: false,
-    other: false,
-    redline: false,
-    D1: false,
-    life_time: false
+    other: false
 };
 
 // Default colors for buckets
@@ -196,9 +193,9 @@ function initializeMap() {
             const checkboxes500k = document.querySelectorAll('#income500k-categories .category-checkbox');
             
             if (parent250k) {
-                parent250k.checked = false;
+                parent250k.checked = true;
                 checkboxes250k.forEach(checkbox => {
-                    checkbox.disabled = true;
+                    checkbox.disabled = false;
                 });
             }
             
@@ -270,7 +267,7 @@ function getUrlParameters() {
     return {
         city: params.get('city'),
         locations: params.get('locations') || '100000',
-        filter250k: params.get('filter250k') || '0111110',  // Default: parent off, first 5 buckets checked
+        filter250k: params.get('filter250k') || '1111110',  // Default: parent off, first 5 buckets checked
         filter500k: params.get('filter500k') || '1111110',  // Default: parent on, all but last bucket
         buckets: params.get('buckets') || '1500A1250B1000C750D500E0F'  // Default bucket min values
     };
@@ -339,19 +336,13 @@ function updateUrlParameters() {
     // Get current state of location filters
     const preferredLocations = document.getElementById('preferred-locations').checked ? '1' : '0';
     const otherLocations = document.getElementById('other-locations').checked ? '1' : '0';
-    const redlineLocations = document.getElementById('redline-locations').checked ? '1' : '0';
-    const D1Locations = document.getElementById('D1-locations').checked ? '1' : '0';
-    const lifetimeLocations = document.getElementById('lifetime-locations').checked ? '1' : '0';
     
     // Only allow labels to be on if their corresponding filter is on
     const preferredLabels = (preferredLocations === '1' && labelToggles.preferred) ? '1' : '0';
     const otherLabels = (otherLocations === '1' && labelToggles.other) ? '1' : '0';
-    const redlineLabels = (redlineLocations === '1' && labelToggles.redline) ? '1' : '0';
-    const D1Labels = (D1Locations === '1' && labelToggles.D1) ? '1' : '0';
-    const lifetimeLabels = (lifetimeLocations === '1' && labelToggles.lifetime) ? '1' : '0';
     
-    const locationString = preferredLocations + otherLocations + redlineLocations + D1Locations + lifetimeLocations + 
-                          preferredLabels + otherLabels + redlineLabels + D1Labels + lifetimeLabels;
+    const locationString = preferredLocations + otherLocations + 
+                          preferredLabels + otherLabels;
     
     params.set('locations', locationString);
     
@@ -406,34 +397,24 @@ function applyLocationsFromUrl() {
     // Apply checkbox states
     document.getElementById('preferred-locations').checked = locations[0] === '1';
     document.getElementById('other-locations').checked = locations[1] === '1';
-    document.getElementById('redline-locations').checked = locations[2] === '1';
-    document.getElementById('D1-locations').checked = locations[3] === '1';
-    document.getElementById('lifetime-locations').checked = locations[4] === '1';
+
     
     // Apply label toggle states
     const preferredLabelsBtn = document.getElementById('preferred-labels-toggle');
     const otherLabelsBtn = document.getElementById('other-labels-toggle');
-    const redlineLabelsBtn = document.getElementById('redline-labels-toggle');
-    const D1LabelsBtn = document.getElementById('D1-labels-toggle');
-    const lifetimeLabelsBtn = document.getElementById('lifetime-labels-toggle');
+
     
     labelToggles.preferred = locations[3] === '1';
     labelToggles.other = locations[4] === '1';
-    labelToggles.redline = locations[5] === '1';
-    labelToggles.D1 = locations[6] === '1';
-    labelToggles.lifetime = locations[7] === '1';
+
     
     preferredLabelsBtn.textContent = labelToggles.preferred ? 'Labels On' : 'Labels Off';
     otherLabelsBtn.textContent = labelToggles.other ? 'Labels On' : 'Labels Off';
-    redlineLabelsBtn.textContent = labelToggles.redline ? 'Labels On' : 'Labels Off';
-    D1LabelsBtn.textContent = labelToggles.D1 ? 'Labels On' : 'Labels Off';
-    lifetimeLabelsBtn.textContent = labelToggles.lifetime ? 'Labels On' : 'Labels Off';
+
     
     preferredLabelsBtn.classList.toggle('active', labelToggles.preferred);
     otherLabelsBtn.classList.toggle('active', labelToggles.other);
-    redlineLabelsBtn.classList.toggle('active', labelToggles.redline);
-    D1LabelsBtn.classList.toggle('active', labelToggles.D1);
-    lifetimeLabelsBtn.classList.toggle('active', labelToggles.lifetime);
+
     
     // Update visibility
     updateMarkerVisibility();
@@ -607,7 +588,6 @@ function loadCityList() {
 async function loadCity(cityName) {
     try {
         // Clear existing data
-        clearMapData();
         currentCity = cityName;
 
         // Find the selected city configuration
@@ -624,8 +604,6 @@ async function loadCity(cityName) {
             return;
         }
 
-        // Calculate and display stats
-        updateCityStats(geoJSON);
 
         // Add the GeoJSON as a source
         if (map.getSource('demographics')) {
@@ -1106,18 +1084,7 @@ function setupEventListeners() {
         updateMarkerVisibility();
         updateUrlParameters();
     });
-    document.getElementById('redline-locations').addEventListener('change', function() {
-        updateMarkerVisibility();
-        updateUrlParameters();
-    });
-    document.getElementById('D1-locations').addEventListener('change', function() {
-        updateMarkerVisibility();
-        updateUrlParameters();
-    });
-    document.getElementById('lifetime-locations').addEventListener('change', function() {
-        updateMarkerVisibility();
-        updateUrlParameters();
-    });
+
 
     // Add label toggle functionality
     document.getElementById('preferred-labels-toggle').addEventListener('click', function() {
@@ -1136,27 +1103,7 @@ function setupEventListeners() {
         updateUrlParameters();
     });
 
-    document.getElementById('redline-labels-toggle').addEventListener('click', function() {
-        labelToggles.redline = !labelToggles.redline;
-        this.textContent = labelToggles.redline ? 'Labels On' : 'Labels Off';
-        this.classList.toggle('active', labelToggles.redline);
-        updateLabelVisibility();
-        updateUrlParameters();
-    });
-    document.getElementById('D1-labels-toggle').addEventListener('click', function() {
-        labelToggles.D1 = !labelToggles.D1;
-        this.textContent = labelToggles.D1 ? 'Labels On' : 'Labels Off';
-        this.classList.toggle('active', labelToggles.D1);
-        updateLabelVisibility();
-        updateUrlParameters();
-    });
-    document.getElementById('lifetime-labels-toggle').addEventListener('click', function() {
-        labelToggles.lifetime = !labelToggles.lifetime;
-        this.textContent = labelToggles.lifetime ? 'Labels On' : 'Labels Off';
-        this.classList.toggle('active', labelToggles.lifetime);
-        updateLabelVisibility();
-        updateUrlParameters();
-    });
+
 
     // Handle range input changes
     document.querySelectorAll('.range-inputs input').forEach(input => {
@@ -1285,59 +1232,6 @@ function validateBucketRanges() {
     return isValid;
 }
 
-function clearMapData() {
-    // Clear the demographics data
-    if (map.getSource('demographics')) {
-        map.getSource('demographics').setData({
-            type: 'FeatureCollection',
-            features: []
-        });
-    }
-
-    // Hide the stats container
-    document.querySelector('.stats-container').classList.add('hidden');
-
-    currentData = null;
-    currentCity = null;
-}
-
-function updateCityStats(geoJSON) {
-    const statsContainer = document.querySelector('.stats-container');
-    
-    // Show the stats container
-    statsContainer.classList.remove('hidden');
-
-    // Initialize min/max values
-    let stats = {
-        kids_250k: { min: Infinity, max: -Infinity },
-        kids_500k: { min: Infinity, max: -Infinity }
-    };
-
-    // Calculate min/max for both properties
-    geoJSON.features.forEach(feature => {
-        const props = feature.properties;
-        
-        // Process kids_250k
-        if (props.kids_250k !== undefined) {
-            const value = parseInt(props.kids_250k) || 0;
-            stats.kids_250k.min = Math.min(stats.kids_250k.min, value);
-            stats.kids_250k.max = Math.max(stats.kids_250k.max, value);
-        }
-        
-        // Process kids_500k
-        if (props.kids_500k !== undefined) {
-            const value = parseInt(props.kids_500k) || 0;
-            stats.kids_500k.min = Math.min(stats.kids_500k.min, value);
-            stats.kids_500k.max = Math.max(stats.kids_500k.max, value);
-        }
-    });
-
-    // Update the table with calculated values
-    document.getElementById('kids250k-min').textContent = stats.kids_250k.min === Infinity ? '-' : stats.kids_250k.min;
-    document.getElementById('kids250k-max').textContent = stats.kids_250k.max === -Infinity ? '-' : stats.kids_250k.max;
-    document.getElementById('kids500k-min').textContent = stats.kids_500k.min === Infinity ? '-' : stats.kids_500k.min;
-    document.getElementById('kids500k-max').textContent = stats.kids_500k.max === -Infinity ? '-' : stats.kids_500k.max;
-}
 
 // Load location points from KML files
 async function loadLocationPoints() {
@@ -1349,10 +1243,7 @@ async function loadLocationPoints() {
         // Reset locations
         locations = {
             preferred: [],
-            other: [],
-            redline: [],
-            D1: [],
-            lifetime: []
+            other: []
         };
 
         // Wait for map style to load
@@ -1363,16 +1254,12 @@ async function loadLocationPoints() {
         // Load KML files
         const preferredKml = await fetch('data/preferred_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
         const otherKml = await fetch('data/other_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
-        const redlineKml = await fetch('data/redline_athletics_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
-        const D1Kml = await fetch('data/D1_Training_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
-        const lifetimeKml = await fetch('data/life_time_locations.kml').then(res => res.text()).then(text => new DOMParser().parseFromString(text, 'text/xml'));
+
 
         // Process locations
         processLocations(preferredKml, 'preferred', '#FF0000');
         processLocations(otherKml, 'other', '#0000FF');
-        processLocations(redlineKml, 'redline', '#FF00FF');
-        processLocations(D1Kml, 'D1', '#00FFFF');
-        processLocations(lifetimeKml, 'lifetime', '#FFFF00');
+
 
         // Apply locations from URL
         applyLocationsFromUrl();
@@ -1489,9 +1376,7 @@ function processLocations(kml, type, color) {
 function updateMarkerVisibility() {
     const preferredVisible = document.getElementById('preferred-locations').checked;
     const otherVisible = document.getElementById('other-locations').checked;
-    const redlineVisible = document.getElementById('redline-locations').checked;
-    const D1Visible = document.getElementById('D1-locations').checked;
-    const lifetimeVisible = document.getElementById('lifetime-locations').checked;
+
 
     let currentIndex = 0;
     
@@ -1507,23 +1392,7 @@ function updateMarkerVisibility() {
         currentIndex++;
     });
 
-    // Update redline markers
-    locations.redline.forEach(() => {
-        locationMarkers[currentIndex].getElement().style.display = redlineVisible ? 'block' : 'none';
-        currentIndex++;
-    });
 
-    // Update D1 markers
-    locations.D1.forEach(() => {
-        locationMarkers[currentIndex].getElement().style.display = D1Visible ? 'block' : 'none';
-        currentIndex++;
-    });
-
-    // Update lifetime markers
-    locations.lifetime.forEach(() => {
-        locationMarkers[currentIndex].getElement().style.display = lifetimeVisible ? 'block' : 'none';
-        currentIndex++;
-    });
 }
 
 function updateLabelVisibility() {
@@ -1532,9 +1401,7 @@ function updateLabelVisibility() {
     // Get marker visibility states
     const preferredVisible = document.getElementById('preferred-locations').checked;
     const otherVisible = document.getElementById('other-locations').checked;
-    const redlineVisible = document.getElementById('redline-locations').checked;
-    const D1Visible = document.getElementById('D1-locations').checked;
-    const lifetimeVisible = document.getElementById('lifetime-locations').checked;
+
     
     // Update preferred markers
     locations.preferred.forEach(() => {
@@ -1558,37 +1425,6 @@ function updateLabelVisibility() {
         currentIndex++;
     });
 
-    // Update redline markers
-    locations.redline.forEach(() => {
-        const markerEl = locationMarkers[currentIndex].getElement();
-        const label = markerEl.querySelector('.marker-label');
-        if (label) {
-            // Only show label if both toggle is on AND marker is visible
-            label.classList.toggle('visible', labelToggles.redline && redlineVisible);
-        }
-        currentIndex++;
-    });
-
-    // Update D1 markers
-    locations.D1.forEach(() => {
-        const markerEl = locationMarkers[currentIndex].getElement();
-        const label = markerEl.querySelector('.marker-label');
-        if (label) {
-            // Only show label if both toggle is on AND marker is visible
-            label.classList.toggle('visible', labelToggles.D1 && D1Visible);
-        }
-        currentIndex++;
-    });
-
-    locations.lifetime.forEach(() => {
-        const markerEl = locationMarkers[currentIndex].getElement();
-        const label = markerEl.querySelector('.marker-label');
-        if (label) {
-            // Only show label if both toggle is on AND marker is visible
-            label.classList.toggle('visible', labelToggles.lifetime && lifetimeVisible);
-        }
-        currentIndex++;
-    });
 }
 
 // Initialize the map when the page loads
